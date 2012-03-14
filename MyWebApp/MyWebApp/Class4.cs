@@ -5,8 +5,7 @@ using System.Web;
 
 namespace MyWebApp
 {
-    public class Class2
+    public class Class4
     {
-        string a = "aaaaaaa";
     }
 }
