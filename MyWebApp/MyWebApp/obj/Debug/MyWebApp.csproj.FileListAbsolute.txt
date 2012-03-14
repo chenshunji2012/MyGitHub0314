@@ -1,0 +1,5 @@
+D:\MyGitHub0314\MyGitHub0314\MyWebApp\MyWebApp\bin\MyWebApp.dll
+D:\MyGitHub0314\MyGitHub0314\MyWebApp\MyWebApp\bin\MyWebApp.pdb
+D:\MyGitHub0314\MyGitHub0314\MyWebApp\MyWebApp\obj\Debug\ResolveAssemblyReference.cache
+D:\MyGitHub0314\MyGitHub0314\MyWebApp\MyWebApp\obj\Debug\MyWebApp.dll
+D:\MyGitHub0314\MyGitHub0314\MyWebApp\MyWebApp\obj\Debug\MyWebApp.pdb
