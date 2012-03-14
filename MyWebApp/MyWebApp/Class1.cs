@@ -7,5 +7,7 @@ namespace MyWebApp
 {
     public class Class1
     {
+        string a = "class1.cs";
+        string ssss = "shdisjd";
     }
 }
